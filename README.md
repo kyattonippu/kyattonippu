@@ -14,14 +14,14 @@
 ### Стек:  
 <p align="left"> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/IDEA.svg" alt="Intellij IDEA" width="40" height="40"/> </a> 
-<img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Java.svg" alt="Java" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Selenium.svg" alt="Selenium" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Selenide.png" alt="Selenide" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Selenoid.svg" alt="Selenoid" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Allure_report.svg" alt="Allure Report" width="40" height="40"/> </a> 
-<img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Gradle.svg" alt="Gradle" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/JUnit5.svg" alt="JUnit5" width="40" height="40"/> </a> 
-<img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Jenkins.svg" alt="Jenkins" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/AllureTestOps.svg" alt="Allure TestOps" width="40" height="40"/> </a> 
 <img src="https://github.com/kyattonippu/kyattonippu/blob/main/icons/Rest_assured.png" alt="REST Assured" width="40" height="40"/> </a> 
